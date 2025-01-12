@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in Swift. The `bug.swift` file contains code that causes a compiler error due to the mismatch between the function's expected argument types and the provided integer values. The `bugSolution.swift` file shows the corrected code.
